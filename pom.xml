@@ -8,8 +8,8 @@
 	</properties>
 	<build>
 	
-  <sourceDirectory>src/main/java/pages/</sourceDirectory> 
-  <testSourceDirectory>src/test/java/test/</testSourceDirectory>  
+  <sourceDirectory>src/main/java/pages</sourceDirectory> 
+  <testSourceDirectory>src/test/java/test</testSourceDirectory>  
 
 		<plugins>
 			<plugin>
